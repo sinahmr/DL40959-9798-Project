@@ -1,3 +1,8 @@
+dataloader_dumps/
+save/
+.idea/
+result_on_test.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
